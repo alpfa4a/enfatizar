@@ -2,7 +2,7 @@
 Extensión para VSCodium que permite seleccionar un texto y enfatizarlo.
 =======================================================================
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Adendo a la Licencia AGPL-3.0
 ------------------------------
 Licencia de Software de Código Abierto Restringida
@@ -19,7 +19,7 @@ Este software es proporcionado bajo los siguientes términos y condiciones:
 
 Al utilizar este software, usted acepta estos términos y condiciones. Si no está de acuerdo con estos términos, no utilice este software.
 
-alpfa
+alpfa email: admin@segfdo.es
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -38,6 +38,6 @@ Con esta configuración, cuando hagas clic derecho sobre una selección en VSCod
                                             
 5. La finalidad de esta extensión es ampliar la "Accesibilidad" de los textos de una página web, de manera que visualmente se aprecie el texto en "itálica", y que cuando esos textos sean interpretado por software de lectura a voz, ese enfasis sea reconocido por el software de lectura a voz y se resalte en el tono de voz la expresión enfatizada.
 
-alpfa
+alpfa email: admin@segfdo.es
 
 
