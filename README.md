@@ -20,6 +20,7 @@ Este software es proporcionado bajo los siguientes términos y condiciones:
 Al utilizar este software, usted acepta estos términos y condiciones. Si no está de acuerdo con estos términos, no utilice este software.
 
 alpfa
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Extensión para VSCodium que permite seleccionar un texto y enfatizarlo.
